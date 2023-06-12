@@ -1,0 +1,3 @@
+name: my-libary
+depend: standard-library
+include: /nix/store/rq5k6ag2bccang7sfb9dis7q048x23jm-libraries -- Optionally specify include paths
